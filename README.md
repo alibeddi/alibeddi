@@ -22,22 +22,15 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<!--
-**alibeddi/alibeddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
 
+- :telescope: I’m currently working as a Software developer and contributing to frontend for building web applications.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :seedling: Exploring Technical Content Writing.
 
-- 😄 I'm a full stack developer.
-- 🔭 I’m currently working as a frontend developer
+- :zap: In my free time, I read tech articles.
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AliBeddi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
