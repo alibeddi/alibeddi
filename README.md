@@ -1,3 +1,10 @@
+<h1 id='header' align="center" font-size="100px">
+ Hi there 👋 
+  </h1>
+  <h2 id='header' align="center" >
+  I'am ALI BEDDI
+  </h2>
+
 <div id='header' align="center" >
 <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
@@ -13,12 +20,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png?w=900&t=st=1685022613~exp=1685023213~hmac=24ae574af371bede4378ee485b2c4005224bb837ebf60fef7115bc2f2e6d2b9d" alt="Twitter Badge" width="40px"/>
   </a>
 </div>
-<h1 id='header' align="center" font-size="100px">
- Hi there 👋 
-  </h1>
-  <h2 id='header' align="center" >
-  I'am ALI BEDDI
-  </h2>
+
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
