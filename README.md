@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 
-  <div id="badges"align="center">
+  <div id="badges"align="center" >
   <a href="https://www.linkedin.com/in/ali-beddi-8a303522a/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=900&t=st=1685022563~exp=1685023163~hmac=2838dff4062d6892b91e55aa6b6041279ca7ba14a997af574634be649c0e07bc" alt="LinkedIn Badge" width=" 40px"/>
   </a>
@@ -10,7 +10,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png?w=900&t=st=1685022474~exp=1685023074~hmac=d599504fa2a408bbc435771283ae388c5a7d1f8df718b1453191578ea67a2800" alt="instagram Badge" width=" 40px"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png?w=900&t=st=1685022613~exp=1685023213~hmac=24ae574af371bede4378ee485b2c4005224bb837ebf60fef7115bc2f2e6d2b9d" alt="Twitter Badge" width="40px"/>
   </a>
 </div>
 <h1 id='header' align="center" font-size="100px">
