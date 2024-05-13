@@ -44,6 +44,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alibeddi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/alibeddi/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=alibeddi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/alibeddi/github-readme-stats#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibeddi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibeddi&layout=compact&theme=dark#gh-dark-mode-only)
 
 
