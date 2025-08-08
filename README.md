@@ -38,7 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,python,html,css,sass,tailwind,django,vue,mongodb,postgres,mysql,sqlite,redis,docker,git,redux,graphql,figma,jest,postman,grafana" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,python,html,css,sass,tailwind.mongodb,postgres,mysql,redis,docker,git,redux,figma,jest,postman,grafana" />
 </p>
 
 ---
