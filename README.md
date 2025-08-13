@@ -30,8 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://twitter.com/bilelsalemdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilelsalemdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bilelsalemdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilelsalemdev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/bilelsalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bilelsalem" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@bilelsalemdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bilelsalemdev" height="30" width="40" /></a>
-</p> -->
+
 
 ---
 
